@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Modelo.ControlPrestamo.Cliente">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAEAHAAAAIAAAAAAAAAAAIAAgAAAAA=</HashCode>
+      <FileName>ControlPrestamo\Cliente.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modelo.ControlPrestamo.Configuracion">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAJAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAE=</HashCode>
+      <FileName>ControlPrestamo\Configuracion.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modelo.ControlPrestamo.Credito">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAIAAEASAAAAgAABCAwAAAAAAAEAAAAQAAgAAAAAg=</HashCode>
+      <FileName>ControlPrestamo\Credito.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modelo.ControlPrestamo.Morosidad">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAgAAACAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>ControlPrestamo\Morosidad.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modelo.ControlPrestamo.Pago">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAACCAAAAAAAAAAAAAAAAAAAAEAAAAAAQEAAABAABA=</HashCode>
+      <FileName>ControlPrestamo\Pago.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modelo.ControlPrestamo.TablaAmortizacion">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAACAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>ControlPrestamo\TablaAmortizacion.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modelo.ControlPrestamo.TipoCredito">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAICAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>ControlPrestamo\TipoCredito.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modelo.ControlPrestamo.TipoPago">
+    <Position X="8.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAgAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>ControlPrestamo\TipoPago.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
